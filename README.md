@@ -18,7 +18,7 @@ It is a Zerodha Clone contains three folders - Frontend, Backend and Dashboard.
 It is a simple frontend build on React + Vite.  <br>
 It also contains Testing file.
 
-<h3>To run the Project:</h3> 
+<h3> To run the Project : </h3> 
 
 - cd Frontend              <br>
 - npm i                    <br>
@@ -29,7 +29,7 @@ It also contains Testing file.
 It contains DataBase Models and Schemas.  <br>
 The data is live data.
 
-<h3>To run the Project:</h3> 
+<h3> To run the Project : </h3> 
 
 - cd Backend                <br>
 - npm i                     <br>
@@ -41,7 +41,7 @@ It is a dashboard build on react. <br>
 Data of Holdings and Positions are shown only when backend server and mongo db atlas ZerodhaCluster is On. <br>
 The file of data of watchlist, holdings and positions are in dashboard folder.
 
-<h3>To run the Project:</h3> 
+<h3> To run the Project : </h3> 
 
 - cd dashboard            <br>
 - npm i                   <br>
