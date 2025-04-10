@@ -18,7 +18,7 @@ It is a Zerodha Clone contains three folders - Frontend, Backend and Dashboard.
 It is a simple frontend build on React + Vite.  <br>
 It also contains Testing file.
 
-<strong>To run the Project:</strong> 
+<h3>To run the Project:</h3> 
 
 - cd Frontend              <br>
 - npm i                    <br>
