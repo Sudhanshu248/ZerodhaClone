@@ -29,7 +29,7 @@ It also contains Testing file.
 It contains DataBase Models and Schemas.  <br>
 The data is live data.
 
-<strong>To run the Project:</strong>
+<h3>To run the Project:</h3> 
 
 - cd Backend                <br>
 - npm i                     <br>
@@ -41,7 +41,7 @@ It is a dashboard build on react. <br>
 Data of Holdings and Positions are shown only when backend server and mongo db atlas ZerodhaCluster is On. <br>
 The file of data of watchlist, holdings and positions are in dashboard folder.
 
-<strong>To run the Project:</strong> 
+<h3>To run the Project:</h3> 
 
 - cd dashboard            <br>
 - npm i                   <br>
